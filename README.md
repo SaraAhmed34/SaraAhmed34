@@ -7,7 +7,7 @@
 
 💻 Passionate about building scalable web applications  
 🎯 Focused on clean architecture & modern UI  
-🌍 Open to Remote Opportunities  
+ 
 
 </div>
 
@@ -79,7 +79,7 @@ Advanced Filtering, Pagination & SweetAlert integration
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (put your linkedin link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/sara-ahmed-8a804b226/
 - 📧 Email: saaraa2333@gmail.com
 - 💻 GitHub: https://github.com/SaraAhmed34
 
