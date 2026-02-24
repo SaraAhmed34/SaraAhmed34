@@ -1,67 +1,92 @@
-# Hi there, I'm Sara Ahmed 👋
+<div align="center">
 
-![Profile Banner](https://your-image-link.com/banner.png)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
-## About Me
-I'm a passionate **Full Stack Developer** with experience in **Angular, .NET, SQL Server, and Web Development**.  
-I love building web applications that are **clean, responsive, and user-friendly**.  
+# Hi 👋 I'm Sara Ahmed
+### 🚀 Full Stack Developer | Angular & .NET
 
-- 🌱 Currently learning advanced **Micro Frontend architectures** and **AI integration**.
-- 💼 Looking for **remote or hybrid opportunities** as a Full Stack Developer.
-- 📫 Reach me at: **saaraa2333@gmail.com**
+💻 Passionate about building scalable web applications  
+🎯 Focused on clean architecture & modern UI  
+🌍 Open to Remote Opportunities  
 
----
-
-## 🛠 Skills
-
-### Frontend
-- Angular 15/17, HTML5, CSS3, Tailwind CSS, Bootstrap
-- JavaScript, TypeScript, RxJS
-- Nebular & UI libraries
-
-### Backend
-- ASP.NET Core Web API
-- SQL Server, Entity Framework (Code First)
-- RESTful API Development
-
-### Tools & Platforms
-- Git & GitHub (Branching, Pull Requests, Merges)
-- VS Code, Visual Studio
-- Nx Monorepo for Angular Projects
-- Postman & Swagger
+</div>
 
 ---
 
-## 💻 Projects
+## 👩‍💻 About Me
 
-### [Makank - Recommendation Platform](https://github.com/SaraAhmed34/Makank)
-- Personalized business and service recommendations based on user preferences
-- Frontend: Angular 17 | Backend: ASP.NET Core Web API
-- Features: Dashboard, Business Search, Booking System
-
-### [E-commerce Micro Frontend Project](https://github.com/SaraAhmed34/e-commerce-mfe)
-- Separate Admin and User apps with shared services
-- Implements login, registration, cart, and order management
-- Micro frontend architecture using Nx workspace
-
-### [Izel Store Management](https://github.com/SaraAhmed34/Izel)
-- Full-featured e-commerce store
-- Includes product management, orders, and customer handling
-- Angular + ASP.NET Core + SQL Server
+- 🎓 Computer Science Graduate  
+- 🔥 Specialized in **Angular (Advanced Concepts)**  
+- ⚙️ Backend Development using **ASP.NET Core Web API**
+- 🧠 Strong understanding of Architecture & Clean Code
+- 📦 Experienced with State Management (NgRx)  
+- 🌱 Currently improving system design & performance optimization  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Tech Stack
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraAhmed34&show_icons=true&theme=radical)
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ---
 
-## 📫 Contact Me
-- Email: saaraa2333@gmail.com
-- LinkedIn: [Sara Ahmed](https://www.linkedin.com/in/saraahmed34)
-- Portfolio: [www.saraahmed.dev](https://www.saraahmed.dev)
+## 📌 Featured Projects
+
+🔹 **Employee Management System**  
+Angular 15 + ASP.NET Core Web API + SQL Server  
+Role-based authentication & authorization  
+
+🔹 **Business Recommendation System (Makank)**  
+Machine Learning API Integration  
+Personalized recommendations  
+
+🔹 **E-commerce Admin Dashboard**  
+Angular + RESTful APIs  
+Advanced Filtering, Pagination & SweetAlert integration  
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaraAhmed34&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaraAhmed34&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (put your linkedin link here)
+- 📧 Email: saaraa2333@gmail.com
+- 💻 GitHub: https://github.com/SaraAhmed34
+
+---
+
+<div align="center">
+
+✨ *"Clean Code. Scalable Systems. Modern UI."* ✨
+
+</div>
